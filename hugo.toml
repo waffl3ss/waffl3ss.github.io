@@ -1,0 +1,6 @@
+   baseURL = "https://waffl3ss.github.io/"
+   title = "Waffles Blog"
+   theme = "PaperMod"
+   [params]
+     author = "James Pletcher"
+     ShowReadingTime = true
